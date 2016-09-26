@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/intervention-engine/fhir/auth"
+	"github.com/okeefm/fhir/auth"
 	"gopkg.in/mgo.v2"
 )
 

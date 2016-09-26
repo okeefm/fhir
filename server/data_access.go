@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/intervention-engine/fhir/models"
-	"github.com/intervention-engine/fhir/search"
+	"github.com/okeefm/fhir/models"
+	"github.com/okeefm/fhir/search"
 )
 
 // DataAccessLayer is an interface for the various interactions that can occur on a FHIR data store.

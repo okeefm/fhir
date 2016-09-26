@@ -1,6 +1,6 @@
 package main
 
-import "github.com/intervention-engine/fhir/server"
+import "github.com/okeefm/fhir/server"
 
 func main() {
 	s := server.NewServer("localhost")

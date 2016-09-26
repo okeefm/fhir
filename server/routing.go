@@ -5,8 +5,8 @@ package server
 import (
 	"github.com/gin-gonic/contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/auth"
 	"github.com/mitre/heart"
+	"github.com/okeefm/fhir/auth"
 	"golang.org/x/oauth2"
 )
 

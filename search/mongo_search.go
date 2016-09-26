@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/intervention-engine/fhir/models"
+	"github.com/okeefm/fhir/models"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

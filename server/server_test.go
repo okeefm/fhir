@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/models"
-	"github.com/intervention-engine/fhir/search"
+	"github.com/okeefm/fhir/models"
+	"github.com/okeefm/fhir/search"
 	"github.com/pebbe/util"
 	. "gopkg.in/check.v1"
 	"gopkg.in/mgo.v2"

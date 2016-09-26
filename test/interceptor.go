@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/intervention-engine/fhir/auth"
-	"github.com/intervention-engine/fhir/server"
+	"github.com/okeefm/fhir/auth"
+	"github.com/okeefm/fhir/server"
 )
 
 func main() {

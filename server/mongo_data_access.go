@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/intervention-engine/fhir/models"
-	"github.com/intervention-engine/fhir/search"
+	"github.com/okeefm/fhir/models"
+	"github.com/okeefm/fhir/search"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )
