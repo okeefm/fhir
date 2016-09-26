@@ -1,10 +1,11 @@
 sudo: false
 language: go
 go:
-- 1.7
-ruby:
-- 2.1
-script: go test ./...
+  - 1.7
+before_install:
+ - rvm install 2.1.5
+script: 
+  - go test ./...
 services:
 - mongodb
 addons:
